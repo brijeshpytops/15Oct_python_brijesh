@@ -1,0 +1,6 @@
+What is software?
+
+Ans:
+
+Software is a collection of tasks and each task has set of instruction.
+
