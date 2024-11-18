@@ -1,0 +1,30 @@
+what is operators in c?
+
+Operators are used to perform operations on operands. C supports various types of operators, including arithmetic, assignment, comparison, logical, bitwise, and others.
+
+num1 = 10
+num2 = 20
+total = num1 + num2
+
+Operators : =, +
+Operands : num1, num2, total
+
+Common operators in C:
+
+1. Arithmetic operators: +, -, *, /, % (modulus)
+2. Assignment operators: =, +=, -=, *=, /=, %=
+3. Comparison operators: ==, !=, <, >, <=, >=
+4. ++ (increment), -- (decrement)
+5. Logical operators: && (logical AND), || (logical OR), ! (logical NOT)
+6. Bitwise operators: &, |, ^ (bitwise XOR), ~, << (left shift), >> (right shift)
+7. Ternary operators: ?: (conditional operator)
+
+Note: C does not have built-in support for user-defined operators. You can create custom operators by defining macros or functions. However, this is not recommended as it can lead to complex and difficult-to-maintain code. Instead, use standard operators provided by the language.
+
+
+// A B C
+// T T T
+// F T T
+// T F T
+// T T f
+// F F F
